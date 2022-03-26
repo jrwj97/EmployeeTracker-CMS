@@ -15,7 +15,7 @@
 
   ## Guide
   See directions
-  ![Watch the video]()
+  ![Watch the video](./video/Untitled_%20Mar%2025%2C%202022%2010_16%20PM.gif)
 
   ## License
   This project is licensed under MIT
