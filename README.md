@@ -14,7 +14,6 @@
   To install EmployeeTracker you first need to clone this repo to your local machine. After that, go into the connection.js file and add your password to line 9. After you have added your password, go ahead and run npm init and then npm install. After that, launch your mysql shell by typing "mysql -u root -p" into your command line. Once you are in the mysql shell, run "source db/db.sql", "source db/schema.sql", and "source db/seeds.sql". After that, exit the mysql shell and type "node server" into your command line! Follow the prompts to add and edit your team!
 
   ## Guide
-  See directions
   ![Watch the video](./video/Untitled_%20Mar%2025%2C%202022%2010_16%20PM.gif)
 
   ## License
